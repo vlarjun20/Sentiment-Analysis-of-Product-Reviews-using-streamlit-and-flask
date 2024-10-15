@@ -4,5 +4,5 @@ The process involves getting input from the flask and sending inputs to the stre
 
 # Installation
 1. Clone the repository:
-   ```bash
- https://github.com/vlarjun20/Sentiment-Analysis-of-Product-Reviews-using-streamlit-and-flask.git
+   ```bash   https://github.com/vlarjun20/Sentiment-Analysis-of-Product-Reviews-using-streamlit-and-flask.git
+
