@@ -3,3 +3,6 @@ This repo is about analysing product reviews using Sentiment Analysis by using F
 The process involves getting input from the flask and sending inputs to the streamlit page by using request to the streamlit local host pag#e.
 
 # Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vlarjun20/Learning Hub.git
